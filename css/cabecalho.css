@@ -65,7 +65,7 @@
     display: block;
     height: 3px;
     width: 100%;
-    background-color: #ffffff;
+    background-color: var(--cor-neutra-clara);
 }
 
 .botao-carrinho {
@@ -77,7 +77,7 @@
 }
 
 .botao-carrinho span {
-    background-color: var(--cor-primaria); 
+    background-color: var(--cor-primaria);
     color: var(--cor-neutra-clara);
     font-weight: 600;
     font-size: 0.7rem;
@@ -106,7 +106,7 @@
 
 @media(min-width: 1440px) {
     .cabecalho {
-        max-width: 1440px;
+        max-width: 1170px;
         margin: 0 auto;
     }
 }
