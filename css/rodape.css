@@ -38,7 +38,7 @@
     color: var(--cor-neutra-clara);
     text-align: center;
     padding: 1.5rem;
-    letter-spacing: 0.1rem:
+    letter-spacing: 0.1rem;
 }
 
 @media(min-width: 1024px) {
